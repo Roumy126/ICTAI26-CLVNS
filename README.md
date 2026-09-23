@@ -7,7 +7,7 @@ This repository contains the supplementary material associated with the paper:
 
 ## Contents
 
-* `Additional_Information.pdf` — Supplementary technical report describing the experimental protocol, data collection, feature engineering, graph representation, learning framework, training procedure, and inference configuration.
+* `Ictai26_GHLIB.pdf` — Supplementary technical report describing the experimental protocol, data collection, feature engineering, graph representation, learning framework, training procedure, and inference configuration.
 
 
 ## Authors
